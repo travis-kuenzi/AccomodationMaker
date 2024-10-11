@@ -1,6 +1,6 @@
 # AccomodationMaker
 
-In this project, I will create a program which randomly assigns a list of guests to a list of hosts for three nights. The complications are that guests shouldn't be kept by the same host twice, and hosts can keep different numbers of people on different nights. I plan to tackle this project in the following (very rough) manner:
+This is a simple little project which randomly assigns a list of guests to a list of hosts for three nights. The complications are that guests shouldn't be kept by the same host twice, and hosts can keep different numbers of people on different nights. I plan to tackle this project in the following (very rough) manner:
 
 * Initial program will simply randomly distribute the guests amongst the hosts, giving each the same amount.
   * Add functionality: Each host gets a certain number of guests
